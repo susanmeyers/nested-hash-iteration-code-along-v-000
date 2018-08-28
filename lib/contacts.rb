@@ -19,7 +19,7 @@ def remove_strawberry(contacts)
         data.delete_if {|ice_cream| ice_cream == "strawberry"}
 
   binding.pry
-  end
-  end
+     end
+    end
   end
 end
